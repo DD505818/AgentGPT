@@ -3,5 +3,6 @@
 **/idea
 **/.next
 **/aws
+
 **/.husky
 **/venv
