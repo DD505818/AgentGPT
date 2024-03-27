@@ -1,7 +1,7 @@
 #!/bin/bash
 cd "$(dirname "$0")" || exit
 
-echo -n "Enter your OpenAI Key (eg: sk...): "
+echo -n "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"
 read OPENAI_API_KEY
 
 NEXTAUTH_SECRET=$(openssl rand -base64 32)
